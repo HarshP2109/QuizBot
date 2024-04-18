@@ -17,4 +17,5 @@ https://github.com/HarshP2109/QuizBot/assets/101322055/cd4a1968-dd6f-4f2d-b8fe-1
 # To Run the File
 
 Step 1. For Building/installing npm package : npm run build
+
 Step 2. For Running the file : npm run start
