@@ -1,5 +1,4 @@
 
-https://github.com/HarshP2109/QuizBot/assets/101322055/61587380-12b4-440a-8bde-b4343e57a123
 # QuizBot
 Quiz Bot is your go-to companion for testing your knowledge and discovering your strengths and weaknesses on Nodejs. Quiz Bot offers an engaging and interactive quiz-solving experience. Receive instant feedback on your answers, and uncover detailed results at the end of each quiz.
 
