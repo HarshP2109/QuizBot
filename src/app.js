@@ -6,7 +6,7 @@ const session = require('express-session');
 const app = express();
 const ServerKey = process.env.ServerKey || 3000;
 
-app.use(express.static('../public'));
+app.use(express.static(path.join(__dirname, '../public')));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(session({
